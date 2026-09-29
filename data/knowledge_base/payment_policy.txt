@@ -1,0 +1,18 @@
+COMPANY BILLING AND PAYMENT POLICY
+
+1. Overview:
+This policy outlines payment methods, failed transactions, double deductions, payment verification, and currency terms.
+
+2. Accepted Payment Methods:
+- Major Credit/Debit cards (Visa, MasterCard, American Express).
+- Unified Payments Interface (UPI), Net Banking, and authorized digital wallets.
+- Buy Now Pay Later (BNPL) and EMI services via partner financial institutions.
+
+3. Payment Failures and Discrepancies:
+- Failed Transactions: If money is deducted from a customer's account for an unconfirmed order, the banking gateway automatically initiates a reversal within 48 to 72 hours.
+- Double Charges: If a transaction is debited twice for a single order ID, the duplicate amount is auto-reversed within 3 to 5 business days upon automated reconciliation.
+- Chargebacks: Customers are encouraged to contact support first before filing bank disputes to resolve issues quickly.
+
+4. Escalation Conditions:
+- If a failed payment deduction is not reversed within 5 business days, escalate to Tier-2 Merchant Accounts with customer's Bank RRN (Retrieval Reference Number).
+- Suspected fraudulent billing or unauthorized account takeover escalates immediately to Fraud and Risk Mitigation team.

@@ -1,0 +1,24 @@
+COMPANY LIMITED WARRANTY POLICY
+
+1. Overview:
+This policy outlines warranty protection for electronic devices, appliances, and hardware products sold on our platform.
+
+2. Warranty Period and Coverage:
+- Standard Warranty: 12 months (1 year) from the date of initial purchase on all electronic devices, laptops, headphones, and appliances.
+- Extended Warranty: If purchased, extends coverage by an additional 12 or 24 months.
+- Coverage includes: Manufacturing defects, hardware malfunctions, internal component failures, power/battery failure not caused by liquid damage, and firmware glitches.
+
+3. Exclusions (Not Covered):
+- Physical impact damage, accidental drops, cracked screens, or water/liquid submersion.
+- Unauthorized third-party repairs or modifications.
+- Normal wear and tear (cosmetic scratches, battery degradation below expected thresholds after 12 months).
+
+4. Warranty Claim Process:
+- Customer provides Order ID, serial number, and a brief description of the issue.
+- Technical Support performs remote diagnostic troubleshooting.
+- If repair is necessary, customer is given a prepaid shipping label to the authorized service center.
+- Turnaround time for warranty repair is 7 to 10 business days. If unrepairable, an equivalent replacement unit or store credit is provided.
+
+5. Escalation Conditions:
+- If a warranty repair exceeds 15 business days without status update, escalate to Warranty Operations Manager for expedited replacement unit dispatch.
+- Repeated failures (same issue occurring 3+ times under warranty) escalate to Technical Quality Assurance for product recall assessment or full refund approval.

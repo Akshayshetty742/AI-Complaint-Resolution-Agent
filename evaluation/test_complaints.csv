@@ -1,0 +1,22 @@
+id,complaint,expected_category,expected_policy
+1,I cancelled my order five days ago but I still haven't received my refund.,Refund,refund_policy.txt
+2,My order was cancelled prior to dispatch. When will my money be returned to my card?,Refund,refund_policy.txt
+3,Where is my refund for the return that was inspected and approved last Tuesday?,Refund,refund_policy.txt
+4,Can I return these shoes within the allowed return period?,Return,return_policy.txt
+5,I want to return an unopened electronics package within the 14-day window.,Return,return_policy.txt
+6,The shirt I received doesn't fit and I need to exchange it for a larger size.,Return,return_policy.txt
+7,My order was supposed to arrive yesterday. Can you tell me when it will be delivered?,Delivery,delivery_policy.txt
+8,The courier tracking status has been stuck in transit for six days now.,Delivery,delivery_policy.txt
+9,My delivery package is marked as delivered but nothing arrived at my doorstep.,Delivery,delivery_policy.txt
+10,My headphones arrived damaged yesterday and I want a replacement.,Damaged Product,damaged_product_policy.txt
+11,The ceramic vase arrived completely shattered inside the shipping box.,Damaged Product,damaged_product_policy.txt
+12,The tablet screen has a large crack right out of the box.,Damaged Product,damaged_product_policy.txt
+13,My laptop stopped working after two months. Is it covered under warranty?,Warranty,warranty_policy.txt
+14,The blender motor failed during normal use after four months of purchase.,Warranty,warranty_policy.txt
+15,Is hardware malfunction covered under the standard one year warranty?,Warranty,warranty_policy.txt
+16,My payment was deducted but my order was not confirmed.,Payment,payment_policy.txt
+17,I was charged twice on my credit card for a single transaction.,Payment,payment_policy.txt
+18,The net banking deduction went through but the checkout page showed payment failed.,Payment,payment_policy.txt
+19,I need help changing the address associated with my account.,General Support,support_policy.txt
+20,How do I update my registered email address and contact details?,General Support,support_policy.txt
+21,I have a question about contacting customer support operating hours.,General Support,support_policy.txt

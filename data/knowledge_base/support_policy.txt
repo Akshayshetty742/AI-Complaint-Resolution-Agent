@@ -1,0 +1,19 @@
+COMPANY GENERAL CUSTOMER SUPPORT POLICY
+
+1. Overview:
+This policy outlines support operational hours, channels, response service-level agreements (SLAs), and issue resolution workflows.
+
+2. Support Channels and Operating Hours:
+- Live Chat & AI Agent: Available 24/7/365.
+- Email Support: Response within 12 to 24 hours.
+- Phone Support: Available Monday to Friday, 9:00 AM to 8:00 PM EST.
+
+3. Service Level Agreements (SLAs) by Priority:
+- High Priority (Damaged Goods, Urgent Delays, Payment/Account Access Issues): First response within 1 hour; resolution target 24 hours.
+- Medium Priority (Returns, Warranty Inquiries, General Tracking): First response within 4 hours; resolution target 48 hours.
+- Low Priority (General feedback, Product inquiries, Account settings): First response within 24 hours; resolution target 72 hours.
+
+4. Escalation Conditions:
+- If a customer contacts support 3 or more times regarding the same unresolved ticket, escalate immediately to Senior Customer Advocacy Team.
+- Profanity or abusive interactions are flagged and transferred to Specialized Conflict Resolution Supervisors.
+- Requests where company policy does not have clear coverage must be logged as "Policy Review Request" and escalated to Support Operations Lead for manual determination.

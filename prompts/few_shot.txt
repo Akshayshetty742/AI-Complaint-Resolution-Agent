@@ -1,0 +1,42 @@
+You are an AI complaint resolution agent. Analyze the customer complaint and retrieved policy context, then output structured JSON.
+
+Example 1:
+Retrieved Context: Orders cancelled prior to dispatch are eligible for an immediate full refund. Credit/Debit Cards take 5 to 7 business days.
+Complaint: "I cancelled my order five days ago but haven't received my refund."
+Output:
+{{
+  "category": "Refund",
+  "sentiment": "Negative",
+  "priority": "Medium",
+  "resolution": "Check order cancellation date and trace ID. If 7 business days elapse without refund, escalate to Tier-2 Billing.",
+  "customer_response": "We apologize for the wait. Your card refund takes 5 to 7 business days to reflect. If not received after 7 days, we will immediately trace it."
+}}
+
+Example 2:
+Retrieved Context: Standard physical products can be returned within 14 calendar days of delivery in unused condition.
+Complaint: "Can I return these shoes within the allowed return period?"
+Output:
+{{
+  "category": "Return",
+  "sentiment": "Neutral",
+  "priority": "Low",
+  "resolution": "Verify delivery date is within 14 calendar days. If verified, generate prepaid return shipping label.",
+  "customer_response": "Yes, you can return your shoes within our 14-day window provided they are unused and in original packaging."
+}}
+
+Now analyze the following case:
+
+Retrieved Policy Context:
+{context}
+
+Customer Complaint:
+{complaint}
+
+Return ONLY a valid JSON object:
+{{
+  "category": "Refund | Return | Delivery | Damaged Product | Warranty | Payment | General Support",
+  "sentiment": "Positive | Neutral | Negative",
+  "priority": "Low | Medium | High",
+  "resolution": "Resolution grounded in policy",
+  "customer_response": "Customer response"
+}}

@@ -1,0 +1,21 @@
+COMPANY REFUND POLICY
+
+1. Overview:
+This policy outlines the conditions under which customers are eligible for refunds for purchases made on our platform.
+
+2. Eligibility Conditions:
+- Orders cancelled prior to dispatch are eligible for an immediate full refund (100% of order value).
+- Returns approved under the Return Policy are refunded once the item passes warehouse inspection.
+- If a duplicate charge occurs, the excess payment will be refunded immediately upon verification.
+- Digital services and downloadable products are strictly non-refundable once accessed.
+
+3. Refund Timeframes and Methods:
+- Credit/Debit Cards: 5 to 7 business days from approval date.
+- UPI / Net Banking: 2 to 4 business days from approval date.
+- Store Credit / Wallet: Instant credited within 24 hours.
+- If a customer has not received their refund within 7 business days following cancellation or return approval, an automated trace ID will be generated.
+
+4. Escalation Conditions:
+- If a refund is delayed beyond 7 business days, the ticket must be escalated to Tier-2 Billing Support with the payment gateway transaction reference.
+- Any unauthorized deduction claims must be escalated immediately to Fraud Prevention.
+- Disputes exceeding $500 require Senior Finance Manager approval.
